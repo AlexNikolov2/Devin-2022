@@ -16,3 +16,8 @@ The National IT Competition for IT, Informatics and Visual Arts is a national co
 **It was my debut campaign.**
 
 I have finished at the amazing 8th place in the category of **Front - End Development**.
+
+# About the task
+
+*Scooty - an app for f.ckin' scooters*
+
