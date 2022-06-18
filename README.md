@@ -27,4 +27,4 @@ I have finished at the amazing 8th place in the category of **Front - End Develo
 
 Our task was to build an app for hiring scooters, using HTML, CSS and JS, with Responsive design also being considered as a big plus.
 
-I have managed to do almost complete website, with few small details missing. Albeit, I haven't implemented proper responsive design and I didn't used JavaScript.
+I have managed to do almost complete website, with few small details missing. Albeit, I haven't implemented proper responsive design and I didn't use JavaScript.
